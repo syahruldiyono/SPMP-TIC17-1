@@ -154,3 +154,57 @@
 					<ol>
 					1. Syahrul Diyono&nbsp;&nbsp;Project Manager<br>
 					2. Muhammad Nopriansyah&nbsp;&nbsp;Programmer<br>
+					3. Ninda Auliya&nbsp;&nbsp;Databaser<br>
+					4. Umi Chabibah&nbsp;&nbsp;Sistem Analis<br>
+					</ol>
+				5.3.2 Kebutuhan Sumber Daya Software<br>
+					<ol>
+				 	Sistem Operasi&nbsp;&nbsp;: Windows 8.1<br> 
+					Bahasa Pemrograman&nbsp;&nbsp;: PHP<br> 
+					Software Pengolah&nbsp;&nbsp;: Sublime Text<br> 
+					Database Engine&nbsp;&nbsp;: Xampp<br> 
+					</ol>
+			 	5.3.3 Kebutuhan Sumber Daya Hardware <br>  
+			 		<ol>
+					1. Laptop<br> 
+					2. Maouse<br> 
+					3. Hardisk<br> 
+					</ol>
+				</ol>
+			5.4 Alokasi Budget dan Sumber Daya<br>
+				<ol>
+				Berikut adalah rincian biaya yang diperlukan untuk pengerjaan proyek kami, dapat dilihat pada data dibawah ini.<br>
+					5.4.1 Estimasi Biaya Software<br>
+					<ol>
+						Windows 7&nbsp;: Rp. 1.100.000<br>
+						Xampp&nbsp;: Rp. 500.000<br>
+					</ol>	
+					5.4.2 Estimasi Biaya Hardware<br>
+					<ol>
+						Laptop		: Rp. 7.000.000
+					 	Hardisk 	: Rp. 500.000
+					 	Mouse		: Rp. 50.000
+					</ol> 	
+			 	</ol>
+			5.5 Jadwal<br>
+			<ol>
+				Untuk menyelesaikan Aplikasi Simulasi Manajemen Proyek Perangkat Lunak ini diperlukan waktu kurang lebih 5 bulan. Dimana rincian jadwal kerja pembuatan aplikasi ini dapat dilihat pada tabel estimasi kerja berikut:<br>
+				<ol>
+				1. Persiapan<br>
+				&nbsp;Pada tahap ini kami mempersiapkan diri dengan memahami yang akan di buat.<br>
+				2. Requirement<br>
+				&nbsp;Selanjutnya mengumpulkan informasi dan referensi yang berhubungan dengan proyek kami.<br>
+				3. Analisis dan Resiko<br>
+				&nbsp;Kami mengalisa kemungkinan-kemungkinan yang akan terjadi pada proyek ini.<br>
+				4. Implementasi<br>
+				&nbsp;Pada proses ini kami memulai proyek dengan mengimplementasikan bahan-bahan yang telah kami kumpulkan sebelumnya.<br>
+				5. Testing dan Pemeliharan<br>
+				&nbsp;Kemudian kami melakukan testing terhadap proyek kami agar tidak ada kesalahan dan melakukan pemeliharaan dengan melakukan pengujian terhadap system informasi apakah sudah memenuhi kebutuhan user.<br>
+				6. Evaluasi<br>
+				&nbsp;Pada tahap ini kami mengevelauasi proyek apakah sudah memenuhi kebutuhan atau belum.<br>
+				</ol>
+			</ol>
+		</ol>
+	</ol>
+
+ 
