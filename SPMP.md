@@ -1,3 +1,32 @@
+
+<b>
+<div class="container" style="font-family: times new roman">
+	<div class="header" style="text-align: center">
+		<font size="6">APLIKASI PENJUALAN ONLINE SPAREPART DAN <br> 
+			AKSESORIS HANDPHONE BERBASIS WEBSITE <br> 
+			RESPONSIVE</font><br>
+		<font size="6">PROYEK 2 </font><br>
+	</b>
+	</div>
+	<div class="content" style="text-align: center">
+		 <img src="polindra.png" width="400" height="400">
+		 <br>
+		    <font size="4"> Disusun Oleh : <br></font>
+		    <b>
+		    <font size="5"> Muhamad Nopriyansyah ( 1703067 ) <br></font>
+			<font size="5">Ninda Auliya (1703081 ) <br></font>
+			<font size="5">Syahrul Diyono ( 1703088 ) <br></font></font>
+			<font size="5">Umi Chabibah ( 1703074 ) <br></font>
+	</div>
+	<br>
+	<div class="footer" style="text-align: center" >
+		 <font size="6">D3 TEKNIK INFORMATIKA <br></font>
+		 <font size="6">POLITEKNIK NEGERI INDRAMAYU<br></font>
+		 <font size="6">2019 </font>
+</b>
+	</div>
+</div>
+
 <ol>
 <b>
 	<li>Pendahuluan</li>
@@ -122,6 +151,7 @@
 					specialist di bagian database sebanyak 1-2 orang.  <br>
 				</ol>
 			</ol>
+			<br>
  <b><li> 
 		Paket Pekerjaan, Jadwal, Dan Budget 
 </li></b>
