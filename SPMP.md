@@ -102,3 +102,55 @@
 		<ol>
 			4.1 Moteda, tool, dan tekniks<br>
 				<ol>
+					Metoda yang kami gunakan yaitu dengan cara menginputkan data yang digunakan 
+					sebagai indikator untuk menentukan nilai yang diharapkan. Kemungkinan Bahasa yang 
+					kami gunakan adalah Bahasa pemograman PHP, Tools yang digunakan adalah Sublime 
+					text, database Mysql, Laravel , Mysql Connector Database untuk menghubungkan 
+					databse dengan Program yang kami buat. Teknik yang digunakan adalah pemrograman 
+					berbasis objek.  <br>
+				</ol>
+			4.2 Dokumentasi perangkat lunak<br>
+				<ol> 
+					Dokumentasi perangkat lunak yang digunakan berdasarkan standar internasional 
+					IEEE, karena telah menyediakan kerangka kerja yang menghubungkan seluruh 
+					spektrum siklus hidup perangkat lunak.   <br>
+				</ol>
+			4.3 Fungsi-fungsi pendukung proyek<br>
+				<ol>
+					Kami membutuhkan technical support di bagian desain project. Kami membutuhkan 
+					technical support di bagian coding program sebanyak 2-3 orang. Kami membutuhkan 
+					specialist di bagian database sebanyak 1-2 orang.  <br>
+				</ol>
+			</ol>
+ <b><li> 
+		Paket Pekerjaan, Jadwal, Dan Budget 
+</li></b>
+		<ol>
+			5.1 Paket Pekerjaan <br>
+				<ol>
+				1. Pengerjaan projek dari koding dan pencarian referensi hingga dilakukan pengecekan.<br>
+				2. Persiapan projek dan pengumpulan sumber daya yg di perlukan.<br>
+				3. Pengecekan hasil projek, berupa pengecekan terhadap error code pada program.<br>
+				4. Melakukan perbaikan projek yang sudah dicek.<br>
+				5. Waktu pengerjaan dokumen-dokumen.<br>
+				6. Presentasi Proyek.<br>  
+				</ol>	
+			5.2 Ketergantungan dan Keterkaitan <br>
+				<ol>
+				Dalam proses pengerjaan proyek yang kami buat ini, keterkaitan dari tugas masing-masing saling membantu agar terbentuknya ketelitian saat mengerjakan dan mendapatkan hasil yang bagus. Berikut adalah perinciaannya.<br>
+				Project Manager	:<br> 
+				Tugas Project Managaer adalah untuk mengawasi anggota anggotanya Sehingga dalam pembuatan Proyek II bisa berjalan sebagaimana mestinya.<br> 
+				Programmer		:<br> 
+				Tugas programmer adalah untuk memprogram dan mengkoding program yang akan dibuat, supaya terlihat lebih menarik.<br>  
+				Sistem Analisis	:<br> 
+				Tugas Sistem Analisis adalah sebagai memberi suatau gambaran Proyek dan pengkodean pada Programmer.<br> 
+				Databaser :<br> 
+				Tugas Databaser adalah untuk membuat database yang dibutuhkan oleh programmer, sehingga dapat memudahkan programmer dalam pembuatan.<br>   
+			 	</ol>
+			5.3 Kebutuhan Sumber Daya<br> 
+				<ol>
+				Untuk pembuatan aplikasi ini akan dikerjakan oleh 4 (Empat) orang, dapat dilihat pada data berikut ini.<br>
+				5.3.1 Kebutuhan Sumber Daya Manusia<br>
+					<ol>
+					1. Syahrul Diyono&nbsp;&nbsp;Project Manager<br>
+					2. Muhammad Nopriansyah&nbsp;&nbsp;Programmer<br>
