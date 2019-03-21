@@ -9,7 +9,7 @@
 	</b>
 	</div>
 	<div class="content" style="text-align: center">
-		 <img src="polindra.png" width="400" height="400">
+		 <img src="Logo/polindra.png" width="400" height="400">
 		 <br>
 		    <font size="4"> Disusun Oleh : <br></font>
 		    <b>
@@ -26,6 +26,8 @@
 </b>
 	</div>
 </div>
+<br>
+<br>
 
 <ol>
 <b>
